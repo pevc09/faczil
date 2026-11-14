@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Pulpo de FACZIL sosteniendo un ticket, una moneda, una caja, un celular, un gráfico y un código de barras">
+  <!-- Lo que controla: cada baldosa es una parte del negocio -->
+  <g fill="#d3f5e7">
+    <rect x="30" y="20" width="46" height="46" rx="13"/>
+    <rect x="10" y="96" width="46" height="46" rx="13"/>
+    <rect x="46" y="166" width="46" height="46" rx="13"/>
+    <rect x="244" y="20" width="46" height="46" rx="13"/>
+    <rect x="264" y="96" width="46" height="46" rx="13"/>
+    <rect x="228" y="166" width="46" height="46" rx="13"/>
+  </g>
+  <g fill="none" stroke="#075a47" stroke-width="2.800" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ticket -->
+    <path d="M44 31h18v24l-3-2.200-3 2.200-3-2.200-3 2.200-3-2.200-3 2.200z"/><path d="M48.500 38h9M48.500 44h9"/>
+    <!-- moneda -->
+    <circle cx="33" cy="119" r="12.500"/><text x="33" y="123.500" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12.500" font-weight="700" fill="#075a47" stroke="none">S/</text>
+    <!-- caja de producto -->
+    <path d="M57 183l12-5.500 12 5.500v12l-12 5.500-12-5.500zM57 183l12 5.500 12-5.500M69 188.500v12"/>
+    <!-- celular con QR -->
+    <rect x="259" y="29" width="16" height="28" rx="3.500"/><rect x="263.500" y="35" width="7" height="7" rx="1"/><path d="M265 51h4"/>
+    <!-- gráfico -->
+    <path d="M277 130v-8M283.500 130v-15M290 130v-11M296.500 130v-21" stroke-width="4"/>
+    <!-- código de barras -->
+    <path d="M239 180v18M243.500 180v18M252 180v18M260.500 180v18M264 180v18" stroke-width="2"/><path d="M247.500 180v18M256.500 180v18" stroke-width="3.600"/>
+  </g>
+  <!-- Tentáculos -->
+  <g fill="none" stroke="#fff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 100c-24 8-42-12-46-34"/>
+    <path d="M120 116c-22 16-44 14-62 4"/>
+    <path d="M134 130c-8 26-26 42-44 48"/>
+    <path d="M196 100c24 8 42-12 46-34"/>
+    <path d="M200 116c22 16 44 14 62 4"/>
+    <path d="M186 130c8 26 26 42 44 48"/>
+    <path d="M151 134c-2 22-11 34-4 49 4 8 14 5 12-3"/>
+    <path d="M169 134c2 22 11 34 4 49-4 8-14 5-12-3"/>
+  </g>
+  <!-- Cabeza -->
+  <path d="M160 40c28 0 48 21 48 48 0 23-14 52-48 52s-48-29-48-52c0-27 20-48 48-48z" fill="#fff"/>
+  <!-- Un solo ojo -->
+  <circle cx="160" cy="88" r="22" fill="#075a47"/>
+  <circle cx="160" cy="88" r="14.500" fill="#2fe0a5"/>
+  <circle cx="160" cy="88" r="7.500" fill="#04261e"/>
+  <circle cx="166" cy="81.500" r="3.800" fill="#fff"/>
+  <path d="M149 121c7 5.500 15 5.500 22 0" fill="none" stroke="#075a47" stroke-width="3.200" stroke-linecap="round"/>
+</svg>
